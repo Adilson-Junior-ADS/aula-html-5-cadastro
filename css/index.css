@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'museoModerno', cursive;
+}
+
+body{background-image: (img/img.jpg);
+    width: 90%;
+    height: 100vh;
+
+    background-color: #494040;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 10px;
+    background-color: #ccc;
+}
+
+ form {
+     text-align: absolute;
+     color:aliceblue;
+     margin-top: 10px;
+     
+
+}
+
+h2{
+    text-align: center;
+
+}
+
+
+img{
+  position: center;
+  bottom: 0;  
+  top: %; 
+  width: 100%;
+  
+   
+}
+
+section{
+    position: absolute;
+    top: 30%;
+    left: 1%;;
+    transition: translate(60%,-40%);
+    padding: 50px;
+
+}
+ .conteiner{
+     width: 200px;
+     margin: auto;
+     position: relative;
+
+ }
